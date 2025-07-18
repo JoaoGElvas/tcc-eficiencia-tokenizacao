@@ -1,0 +1,21 @@
+# -- Core ML & NLP Frameworks --
+# Hugging Face ecosystem for models, datasets, and acceleration
+transformers==4.42.3
+datasets==2.20.0
+accelerate==0.31.0
+# PyTorch for deep learning tensor operations
+torch==2.3.1
+# Required for 4-bit/8-bit quantization on compatible GPUs
+bitsandbytes==0.43.1
+
+# -- Data Handling & Visualization --
+# For data manipulation and CSV I/O
+pandas==2.2.2
+# For plotting
+matplotlib==3.9.0
+# For advanced and prettier plots
+seaborn==0.13.2
+
+# -- Utilities --
+# For progress bars in notebooks
+tqdm==4.66.4

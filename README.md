@@ -20,6 +20,7 @@ The efficiency of Large Language Models (LLMs) is critically dependent on the pr
 ## Repository Structure
 
 tcc-eficiencia-tokenizacao/
+
 ├── notebook/  
 ├── results/  
 ├── figures/  
